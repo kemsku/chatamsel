@@ -1,4 +1,6 @@
 <?php 
+  echo 'Test'
+
   $choice = mt.rand(0,4)
   $choices = ['anni', 'b-cup', 'c-cup', 'd-cup']
   
